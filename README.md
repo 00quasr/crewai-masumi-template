@@ -42,7 +42,7 @@ alembic upgrade head
 
 
 ## 🏗️ Project Structure
-├── src/                   # Source code
+├── src/                  # Source code
 │   ├── api/              # API endpoints and models
 │   ├── core/             # Core configuration
 │   ├── crew/             # CrewAI agents and tasks
