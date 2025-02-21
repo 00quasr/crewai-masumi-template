@@ -44,14 +44,14 @@ alembic upgrade head
 ## 🏗️ Project Structure
 
 masumi-agent-template/
-├── src/ # Source code
-│ ├── api/ # API endpoints and models
-│ ├── core/ # Core configuration
-│ ├── crew/ # CrewAI agents and tasks
-│ └── db/ # Database models and session
-├── alembic/ # Database migrations
-├── tests/ # Test suite
-└── docker-compose.yml # Docker configuration
+├── src/              # Source code
+│   ├── api/         # API endpoints and models
+│   ├── core/        # Core configuration
+│   ├── crew/        # CrewAI agents and tasks
+│   └── db/          # Database models and session
+├── alembic/         # Database migrations
+├── tests/           # Test suite
+└── docker-compose.yml  # Docker configuration
 
 
 
